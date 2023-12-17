@@ -9,7 +9,7 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 - **Auto Advance**: Automatically move on to the next page, activity, or question after completion!
 - **Auto Submit Delay**: When combining Auto Advance with Auto Answers, it will automatically submit the activity after completion. Using this will make the menu wait 5 minutes before submitting for less suspicious usage.
 - **Auto Answers**: Automatically answer questions on Edgenuity **quizzes, unit tests, cumulative exams, reviews, tests, culture activities, listening activities, practices, exams, lessons, and lectures. (Does not work 100% of the time.)
-- **Auto Vocab**" Automatically complete activites with the title "Vocabulary".
+- **Auto Vocab** Automatically complete activites with the title "Vocabulary".
 - **Auto Virtual Lab**: Clicks the enter key automatically in activities with the title "Virtual Lab".
 - **Anti Logout**: Stops Edgenuity from logging you out automatically when you are AFK.
 - **Frame Unlocker**: Allows you to access any frame/page on activites such as Warm Up's, Instructions, and Summary's.
