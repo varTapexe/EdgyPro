@@ -8,15 +8,18 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 
 - **Auto Advance**: Automatically move on to the next page, activity, or question after completion!
 - **Auto Submit Delay**: When combining Auto Advance with Auto Answers, it will automatically submit the activity after completion. Using this will make the menu wait 5 minutes before submitting for less suspicious usage.
-- **Auto Answers**: Automatically answer questions on Edgenuity **quizzes, unit tests, cumulative exams, reviews, tests, culture activities, listening activities, practices, exams, lessons, and lectures. (Does not work 100% of the time.)
+- **Auto Answers**: Automatically answer questions on graded Edgenuity activities such as **quizzes, unit tests, cumulative exams, reviews, tests, culture activities, listening activities, practices, exams, lessons, and lectures.**
+- **Auto Assignment**: Automatically answer questions on Edgenuity **Assignment** activities.
+- **Assignment Unlocker**: Unlocks locked assignments in the course map (doesn't work for every class).
 - **Auto Vocab** Automatically complete activites with the title "Vocabulary".
 - **Auto Virtual Lab**: Clicks the enter key automatically in activities with the title "Virtual Lab".
 - **Anti Logout**: Stops Edgenuity from logging you out automatically when you are AFK.
-- **Frame Unlocker**: Allows you to access any frame/page on activites such as Warm Up's, Instructions, and Summary's.
-- **Guess Ungraded**: Automatically answers ungraded assignments by guessing answers.
-- **Guess Assignments**: Automatically answers activites with the title "Assignment" by guessing answers.
-- **Show Column**: Shows the "example response" on written answers (if available).
-- **Skip Intros**: Skips the intro audio clip before questions with intros.
+- **Frame Unlocker**: Allows you to access any frame/question on activites such as Warm Up's, Instructions, and Summary's.
+- **Guess Ungraded**: Automatically answers ungraded assignments such as **Warm-Up**'s or **Instruction**s by guessing answers.
+- **Guess Unknown Questions**: Paired with Auto Assignment, this feature will guess unknown answers in Assignments.
+- **Show Column**: Shows the "example response" on written answers (if available on the page).
+- **Skip Intros**: Skips the intro audio clip before questions with intros by deleting the invisible overlay.
+- **Skip Games**: Skips mini-game activities (usually found in language classes).
 - **Hide GUI**: Hides the menu by making it invisible. Use `CTRL-SHIFT-H` to unhide it or `CTRL-SHIFT-R` to completely reset it.
 
 ## Getting Started
@@ -34,13 +37,14 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 
 ### Usage 🤖
 
-- EdgyPro can be left to run on its own, but it's recommended that you stay in the same room in case the bot encounters any issues.
+- EdgyPro can be left to run on its own for most classes, but it's recommended that you stay in the same room in case the bot encounters any issues.
+- It is recommended to not use EdgyPro on school devices as you may be being monitored and it is easier to get caught.
 
 ### Troubleshooting 🐞
 
+- Clearing page cookies or cache may resolve certain issues.
 - If the menu disappears try doing `CTRL-SHIFT-R` to reset the menu.
 - Check the edgenuity console (F12) for errors and report them in the [EdgyPro Discord](https://discord.gg/AdQFxcH6vN).
-- Clearing page cookies may resolve certain issues.
 - If none of the above works, join the [EdgyPro Discord](https://discord.gg/AdQFxcH6vN) for support.
 
 ### License 🔑
