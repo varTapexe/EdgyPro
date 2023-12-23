@@ -14,12 +14,15 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 - **Auto Vocab** Automatically complete activites with the title "Vocabulary".
 - **Auto Virtual Lab**: Clicks the enter key automatically in activities with the title "Virtual Lab".
 - **Anti Logout**: Stops Edgenuity from logging you out automatically when you are AFK.
-- **Frame Unlocker**: Allows you to access any frame/question on activites such as Warm-Ups, Instructions, and Summarys.
+- **Brainly Search**: Puts a Brainly.com search button under all questions which automatically searches it.
+- **ChatGPT Answers**: Uses your personal ChatGPT account to automatically get written response answers.
+- **Frame Unlocker**: Allows you to access any frame/question on activites such as Warm Up's, Instructions, and Summary's.
 - **Guess Ungraded**: Automatically answers ungraded assignments such as **Warm-Up**'s or **Instruction**s by guessing answers.
 - **Guess Unknown Questions**: Paired with Auto Assignment, this feature will guess unknown answers in Assignments.
 - **Show Column**: Shows the "example response" on written answers (if available on the page).
 - **Skip Intros**: Skips the intro audio clip before questions with intros by deleting the invisible overlay.
 - **Skip Games**: Skips mini-game activities (usually found in language classes).
+- **Search Brainly**: Attaches a "Search Brainly" button below all questions.
 - **Hide GUI**: Hides the menu by making it invisible. Use `CTRL-SHIFT-H` to unhide it or `CTRL-SHIFT-R` to completely reset it.
 
 ## Getting Started
