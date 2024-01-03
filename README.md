@@ -1,4 +1,4 @@
-👉 Join the [EdgyPro Discord](https://discord.gg/AdQFxcH6vN)!
+👉 Join the [EdgyPro Discord](https://edgypro.net/discord)!
 
 # EdgyPro 
 
@@ -6,24 +6,7 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 
 ## Features ⭐
 
-- **Auto Advance**: Automatically move on to the next page, activity, or question after completion!
-- **Auto Submit Delay**: When combining Auto Advance with Auto Answers, it will automatically submit the activity after completion. Using this will make the menu wait 5 minutes before submitting for less suspicious usage.
-- **Auto Answers**: Automatically answer questions on graded Edgenuity activities such as **quizzes, unit tests, cumulative exams, reviews, tests, culture activities, listening activities, practices, exams, lessons, and lectures.**
-- **Auto Assignment**: Automatically answer questions on Edgenuity **Assignment** activities.
-- **Assignment Unlocker**: Unlocks locked assignments in the course map (doesn't work for every class).
-- **Auto Vocab** Automatically complete activites with the title "Vocabulary".
-- **Auto Virtual Lab**: Clicks the enter key automatically in activities with the title "Virtual Lab".
-- **Anti Logout**: Stops Edgenuity from logging you out automatically when you are AFK.
-- **Brainly Search**: Puts a Brainly.com search button under all questions which automatically searches it.
-- **ChatGPT Answers**: Uses your personal ChatGPT account to automatically get written response answers.
-- **Frame Unlocker**: Allows you to access any frame/question on activites such as Warm Up's, Instructions, and Summary's.
-- **Guess Ungraded**: Automatically answers ungraded assignments such as **Warm-Up**'s or **Instruction**s by guessing answers.
-- **Guess Unknown Questions**: Paired with Auto Assignment, this feature will guess unknown answers in Assignments.
-- **Show Column**: Shows the "example response" on written answers (if available on the page).
-- **Skip Intros**: Skips the intro audio clip before questions with intros by deleting the invisible overlay.
-- **Skip Games**: Skips mini-game activities (usually found in language classes).
-- **Search Brainly**: Attaches a "Search Brainly" button below all questions.
-- **Hide GUI**: Hides the menu by making it invisible. Use `CTRL-SHIFT-H` to unhide it or `CTRL-SHIFT-R` to completely reset it.
+- Features have been moved to <https://edgypro.net/features>.
 
 ## Getting Started
 
@@ -33,10 +16,11 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 
 ### Installation ⬇️
 
-1. Purchase EdgyPro on Discord: [EdgyPro Discord](https://discord.gg/AdQFxcH6vN).
-2. Add the script to your Tampermonkey dashboard.
-3. Navigate to edgenuity.com.
-4. Input the key attached to the purchase email to activate the menu.
+1. Purchase EdgyPro on the [website](https://edgypro.net/purchase) or in the [EdgyPro Discord](https://edgypro.net/discord).
+2. Add the Google extension [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) to your browser.
+3. Go to the **Tampermonkey Dashboard** by clicking the extension icon in the top right then clicking Dashboard.
+4. Drag & drop the attached file into the dashboard to install the script. It should open a page where you can click install.
+5. Open or refresh Edgenuity then input and redeem your key that you received in the email.
 
 ### Usage 🤖
 
@@ -47,8 +31,8 @@ EdgyPro is a partially AFK automatic script designed for Edgenuity, featuring fe
 
 - Clearing page cookies or cache may resolve certain issues.
 - If the menu disappears try doing `CTRL-SHIFT-R` to reset the menu.
-- Check the edgenuity console (F12) for errors and report them in the [EdgyPro Discord](https://discord.gg/AdQFxcH6vN).
-- If none of the above works, join the [EdgyPro Discord](https://discord.gg/AdQFxcH6vN) for support.
+- Check the edgenuity console (F12) for errors and report them in the [EdgyPro Discord](https://edgypro.net/discord).
+- If none of the above works, join the [EdgyPro Discord](https://edgypro.net/discord) for support.
 
 ### License 🔑
 
@@ -56,7 +40,7 @@ EdgyPro is a pay-to-use menu, and the script includes a paid key system for acti
 
 ### Reporting Issues and Contributions ⚠️
 
-- Join the Discord: [EdgyPro Discord](https://discord.gg/AdQFxcH6vN).
+- Join the Discord: [EdgyPro Discord](https://edgypro.net/discord).
 - Utilize the dedicated channels for issue reporting and contributions.
 
 **Note:** EdgyPro is designed to work with Tampermonkey browser extension.
