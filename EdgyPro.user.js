@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         EdgyPro
-// @namespace    https://discord.gg/VYhEcsDKEU
+// @namespace    https://edgypro.net/
 // @version      1.0.0
 // @description  Automated Course Engine - Edgenuity
 // @author       fwtapwater
