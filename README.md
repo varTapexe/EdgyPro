@@ -59,6 +59,6 @@ By purchasing and/or using this tool, you acknowledge the potential consequences
 ### Other: 
 
 EdgyPro is inspired by:
-- EdgyBot by GSRhaX
+- EdgyBot by GSRHaX
 - Edgesploit by Databones
 - Edgentweaks by SubatomicMC
