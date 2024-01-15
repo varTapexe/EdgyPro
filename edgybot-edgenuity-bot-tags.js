@@ -1,3 +1,5 @@
+// THIS IS JUST TAGS FOR SEARCH TERMS! THIS FILE IS USELESS TO YOU AS A USER!
+
 afk edgenuity
 answer bot edgenuity
 answer bot free edgenuity
