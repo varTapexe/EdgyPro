@@ -20,12 +20,12 @@ EdgyPro is a comprehensive automatic bot designed for Edgenuity, offering studen
 # Information
 All information has been removed from the `README.md` file and moved to our website, https://edgypro.net/
 
+# Resources
+- https://discord.gg/edgypro
+- https://edgypro.net/
+
 # Other
 EdgyPro is inspired by:
 - EdgyBot by GSRHaX
 - Edgesploit by Databones
 - Edgentweaks by SubatomicMC
-
-# Resources
-https://discord.gg/edgypro
-https://edgypro.net/
