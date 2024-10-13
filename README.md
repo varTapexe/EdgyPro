@@ -4,17 +4,18 @@ EdgyPro is a comprehensive automatic bot designed for Edgenuity, offering studen
 # 🔍 How to use the script?
 [Join our Here to use the script](https://edgypro.net/discord)!
 
-🎯 **100% Accurate Answers**
-🕵️ **Completely Undetectable by Edgenuity**
-🤖 **Fully Automated Edgenuity Bot**
+- 🎯 **100% Accurate Answers**
+- 🕵️ **Completely Undetectable by Edgenuity**
+- 🤖 **Fully Automated Edgenuity Bot**
 
-# Features
-✨ Auto Advance
-✨ Auto Answers
-✨ Assignment Unlocker
-✨ Brainly Unlocker
-✨ AI Answers / Humanizer
-✨ Spanish / Language Activity Skipper
+# Features 
+- (https://edgypro.net/features)
+- ✨ Auto Advance
+- ✨ Auto Answers
+- ✨ Assignment Unlocker
+- ✨ Brainly Unlocker
+- ✨ AI Answers / Humanizer
+- ✨ Spanish / Language Activity Skipper
 
 # Information
 All information has been removed from the `README.md` file and moved to our website, https://edgypro.net/
